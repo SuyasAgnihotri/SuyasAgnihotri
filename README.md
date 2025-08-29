@@ -1,7 +1,7 @@
 ## Hi I'm Suyas Agnihotri👋
 
 
-**🚀 Fresher Software Developer | Python & Java Enthusiast | Passionate about building real-world projects and solving problems.
+**🚀 Fresher Data Scientist,AL/ML Engineer,Software Developer | Python & Java Enthusiast | Passionate about building real-world projects and solving problems.
 
  Aspiring Software Developer | Python, Java, Django ,springboot| Learning Full Stack Development | Open to Opportunities
  | Strong in DSA (Java) | Building REST APIs & scalable applications
