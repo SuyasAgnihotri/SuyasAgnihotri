@@ -1,9 +1,9 @@
 ## Hi I'm Suyas Agnihotri👋
 
 
-**🚀Software Developer | Python & Java ,HTML, CSS,TailwindCss,JavaScript,Reactjs,Nodejs | Passionate about building real-world projects and solving problems.
+**🚀Software Developer | Python  ,HTML, CSS,JavaScript,Reactjs,Nodejs,expressjs,MongoDb | Passionate about building real-world projects and solving problems.
 
- Aspiring Software Developer | Python, Java, Django ,springboot| Learning Full Stack Development | Open to Opportunities
+Software Developer | Python, Django Full Stack Development | MERN stack
  | Strong in DSA (Java) | Building REST APIs & scalable applications
  
 you can connect me on [LinkedIn](https://www.linkedin.com/in/suyas-agnihotri/)
